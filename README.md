@@ -1,16 +1,14 @@
-# iconnect
+# Iconnect
+<img src="https://github.com/quitodev/Iconnect/blob/main/assets/Grafico.png?raw=true" width="740">
 
-A new Flutter project.
+Iconnect is a website built for a client that displays information about a new building complex with amenities in Buenos Aires City, in order to attract potential customers and show all the benefits that the complex has.
 
-## Getting Started
+## Images
+<img src="https://github.com/quitodev/Iconnect/blob/main/assets/1.jpg?raw=true" width="245"> <img src="https://github.com/quitodev/Iconnect/blob/main/assets/2.jpg?raw=true" width="245"> <img src="https://github.com/quitodev/Iconnect/blob/main/assets/3.jpg?raw=true" width="245"> <img src="https://github.com/quitodev/Iconnect/blob/main/assets/4.jpg?raw=true" width="245"> <img src="https://github.com/quitodev/Iconnect/blob/main/assets/5.jpg?raw=true" width="245">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies implemented
+- Dart
+- Flutter
+- Responsive Builder
+- Clean Architecture
+- SOLID
